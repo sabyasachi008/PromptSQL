@@ -1,2 +1,2 @@
-# PromptSQL
-Prompt-based SQL builder
+## PromptSQL
+# Prompt-based SQL builder
